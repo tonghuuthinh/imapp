@@ -1,0 +1,18 @@
+{
+  "AOL" : {
+    "host":"imap.aol.com",
+    "port":993
+  },
+  "Outlook.com / Hotmail": {
+    "host": "imap-mail.outlook.com",
+    "port": 993
+  },
+  "Libero": {
+    "host":"imapmail.libero.it",
+    "port":993
+  },
+  "Godaddy" {
+    "host":"imap.secureserver.net",
+    "port":993
+  }
+}
